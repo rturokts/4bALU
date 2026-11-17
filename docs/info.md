@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Una ALU de 4 bits que realiza operaciones con dos entradas A y B
 
 ## How to test
 
-Explain how to use your project
+EL test genara un archivo tb.fst que se puede abrir en GTKWAVE
 
 ## External hardware
 
